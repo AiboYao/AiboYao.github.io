@@ -1,9 +1,9 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Aibo Yao   # Main site title (appears in browser tab & RSS)
-tagline: Railway transportation management applicant  # Optional short tagline, used by some layouts
-description: Personal website of Aibo Yao, focusing on railway transportation management and logistics engineering.  # Strongly recommended for SEO & social cards
+title: Aibo Yao's Personal Website | Operations & Supply Chain   # Main site title (appears in browser tab & RSS)
+tagline: Operations and supply chain researcher  # Optional short tagline, used by some layouts
+description: Personal site of Aibo Yao, covering operations management, supply chain, blockchain, and platform governance.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
