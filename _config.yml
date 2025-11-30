@@ -7,7 +7,7 @@ description: Personal website of Aibo Yao, focusing on railway transportation ma
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://aiboyao.com
+url: https://aiboyao.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
