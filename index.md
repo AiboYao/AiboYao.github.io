@@ -4,6 +4,8 @@ layout: page
 
 # About Me
 
+<img src="/images/aiboyao.jpg" alt="Aibo Yao profile photo" width="360">
+
 Here is **Aibo Yao**. My research interests include but are not limited to: operations management, supply chain, blockchain, and platform regulation. I am from Guangzhou and am currently a third-year graduate student majoring in Logistics Engineering and Management at Wuhan University of Science and Technology. You can contact me via my academic email: **yaoaibo@wust.edu.cn**.
 
 ---
