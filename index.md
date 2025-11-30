@@ -10,9 +10,10 @@ Here is **Aibo Yao**. My research interests include but are not limited to: oper
 
 ## Publications and working papers
 
-- [Blockchain technology empowers the cross-border dual-channel supply chain: Introduction strategy, tax differences, optimal decisions](https://doi.org/10.1016/j.cie.2024.110431). Lin Jiang, **Aibo Yao**, Wei Li, Qi Wei. *Computers & Industrial Engineering*, 2024.<br>
-- [Subsidy Policy Interactions in Agricultural Supply Chains: An Interdepartmental Coordination Perspective](https://doi.org/10.3390/agriculture15141464). **Aibo Yao**, Lin Jiang, Bingxue Guo, Wei Li. *Agriculture-Basel*, 2025.<br>
+- [Blockchain technology empowers the cross-border dual-channel supply chain: Introduction strategy, tax differences, optimal decisions](https://doi.org/10.1016/j.cie.2024.110431). Lin Jiang, **Aibo Yao**, Wei Li, Qi Wei. Published in *Computers & Industrial Engineering*, 2024.
 
-- Artificial Intelligence Customer Service Adoption Strategy in Platform Supply Chain: Strategic Interactions and Consumer Automation Aversion. **Aibo Yao**, Fu Jia, Lin Jiang, Zexuan Shi, Qi Wei. Major revision at *European Journal of Operational Research*.<br>
+- [Subsidy Policy Interactions in Agricultural Supply Chains: An Interdepartmental Coordination Perspective](https://doi.org/10.3390/agriculture15141464). **Aibo Yao**, Lin Jiang, Bingxue Guo, Wei Li. Published in *Agriculture-Basel*, 2025.
+
+- Artificial Intelligence Customer Service Adoption Strategy in Platform Supply Chain: Strategic Interactions and Consumer Automation Aversion. **Aibo Yao**, Fu Jia, Lin Jiang, Zexuan Shi, Qi Wei. Major revision at *European Journal of Operational Research*.
 
 ---
