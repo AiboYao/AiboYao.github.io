@@ -16,6 +16,6 @@ Here is **Aibo Yao**. My research interests include but are not limited to: oper
 
 - [Subsidy Policy Interactions in Agricultural Supply Chains: An Interdepartmental Coordination Perspective](https://doi.org/10.3390/agriculture15141464). **Aibo Yao**, Lin Jiang, Bingxue Guo, Wei Li. Published in *Agriculture-Basel*, 2025.
 
-- Artificial Intelligence Customer Service Adoption Strategy in Platform Supply Chain: Strategic Interactions and Consumer Automation Aversion. **Aibo Yao**, Fu Jia, Lin Jiang, Zexuan Shi, Qi Wei. Major revision at *European Journal of Operational Research*.
+- [Artificial Intelligence Customer Service Adoption Strategy in Platform Supply Chain: Strategic Interactions and Consumer Automation Aversion](https://doi.org/10.1016/j.ejor.2025.12.032). **Aibo Yao**, Fu Jia, Lin Jiang, Zexuan Shi, Qi Wei. Published in  *European Journal of Operational Research*, 2026.
 
 ---
