@@ -1,8 +1,8 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Aibo Yao's Personal Website  # Main site title (appears in browser tab & RSS)
-tagline: Operations and supply chain researcher  # Optional short tagline, used by some layouts
+title: Aibo Yao's Personal Website 🌐  # Main site title (appears in browser tab & RSS)
+tagline: Operations and supply chain researcher 🚚  # Optional short tagline, used by some layouts
 description: Personal site of Aibo Yao, covering operations management, supply chain, blockchain, and platform governance.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
@@ -47,9 +47,9 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 #  `external: true` opens the link in a new tab.
 # --------------------------------------------------
 links:
-  - title: About Me
+  - title: About Me 👋
     url: /
-  - title: Paper Slides
+  - title: Paper Slides 📊
     url: /paper-slides/
   # - title: Publications
   #   url: /publications/
