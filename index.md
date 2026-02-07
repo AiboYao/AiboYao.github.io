@@ -12,10 +12,12 @@ layout: page
 
 ## Publications and Working Papers
 
-- 🤩 [Blockchain technology empowers the cross-border dual-channel supply chain: Introduction strategy, tax differences, optimal decisions](https://doi.org/10.1016/j.cie.2024.110431). Lin Jiang, **Aibo Yao**, Wei Li, Qi Wei. Published in *Computers & Industrial Engineering*, 2024.
+<ul>
+<li style="text-align: justify; text-justify: inter-word;">🤩 <a href="https://doi.org/10.1016/j.cie.2024.110431">Blockchain technology empowers the cross-border dual-channel supply chain: Introduction strategy, tax differences, optimal decisions</a>. Lin Jiang, <strong>Aibo Yao</strong>, Wei Li, Qi Wei. Published in <em>Computers &amp; Industrial Engineering</em>, 2024.</li>
 
-- 🔥 [Subsidy Policy Interactions in Agricultural Supply Chains: An Interdepartmental Coordination Perspective](https://doi.org/10.3390/agriculture15141464). **Aibo Yao**, Lin Jiang, Bingxue Guo, Wei Li. Published in *Agriculture-Basel*, 2025.
+<li style="text-align: justify; text-justify: inter-word;">🔥 <a href="https://doi.org/10.3390/agriculture15141464">Subsidy Policy Interactions in Agricultural Supply Chains: An Interdepartmental Coordination Perspective</a>. <strong>Aibo Yao</strong>, Lin Jiang, Bingxue Guo, Wei Li. Published in <em>Agriculture-Basel</em>, 2025.</li>
 
-- 🥵 [Artificial Intelligence Customer Service Adoption Strategy in Platform Supply Chain: Strategic Interactions and Consumer Automation Aversion](https://doi.org/10.1016/j.ejor.2025.12.032). **Aibo Yao**, Fu Jia, Lin Jiang, Zexuan Shi, Qi Wei. Published in  *European Journal of Operational Research*, 2026.
+<li style="text-align: justify; text-justify: inter-word;">🥵 <a href="https://doi.org/10.1016/j.ejor.2025.12.032">Artificial Intelligence Customer Service Adoption Strategy in Platform Supply Chain: Strategic Interactions and Consumer Automation Aversion</a>. <strong>Aibo Yao</strong>, Fu Jia, Lin Jiang, Zexuan Shi, Qi Wei. Published in <em>European Journal of Operational Research</em>, 2026.</li>
+</ul>
 
 ---
