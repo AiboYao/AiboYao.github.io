@@ -1,0 +1,24 @@
+/* Custom layout overrides for page-like content */
+/* Keep page content visually centered and remove empty right gutter. */
+body.page #main {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body.page #main .article-author-top {
+  display: none;
+}
+
+body.page #main article {
+  float: none;
+  display: block;
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto 2em;
+}
+
+body.page #main .article-wrap {
+  margin-left: 0;
+  margin-right: 0;
+}
