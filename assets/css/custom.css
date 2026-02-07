@@ -1,24 +1,30 @@
 /* Custom layout overrides for page-like content */
-/* Keep page content visually centered and remove empty right gutter. */
-body.page #main {
-  max-width: 980px;
-  margin-left: auto;
-  margin-right: auto;
-}
+/* Keep profile sidebar visible and reduce excessive right whitespace on wide screens. */
 
-body.page #main .article-author-top {
-  display: none;
-}
+@media only screen and (min-width: 68.75em) {
+  body.page #main {
+    max-width: 1180px;
+    margin: 1em auto 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 2rem;
+  }
 
-body.page #main article {
-  float: none;
-  display: block;
-  width: 90%;
-  max-width: 900px;
-  margin: 0 auto 2em;
-}
+  body.page #main .article-author-top {
+    display: block;
+    float: none;
+    width: 220px;
+    margin: 0;
+    flex: 0 0 220px;
+  }
 
-body.page #main .article-wrap {
-  margin-left: 0;
-  margin-right: 0;
+  body.page #main article {
+    display: block;
+    float: none;
+    width: auto;
+    max-width: 780px;
+    margin: 0;
+    flex: 1 1 780px;
+  }
 }
