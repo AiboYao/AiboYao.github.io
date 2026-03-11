@@ -23,16 +23,18 @@
 </script>
 
 <style>
-  body.page {
+  html, body.page {
+    height: 100%;
+  }
+  .page-wrapper {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    margin: 0;
   }
-  body.page #main {
+  .page-wrapper > #main {
     flex: 1 0 auto;
   }
-  body.page .footer-wrap {
+  .page-wrapper > .footer-wrap {
     flex-shrink: 0;
   }
 </style>
@@ -49,6 +51,7 @@
   <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
 </div><!-- /.image-wrap -->{% endif %}
 
+<div class="page-wrapper">
 <div id="main" role="main"  itemprop="mainContentOfPage">
   <div class="article-author-top">
     {% include author-bio.html %}
@@ -70,6 +73,7 @@
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrap -->
+</div><!-- /.page-wrapper -->
 
 {% include scripts.html %}
 
